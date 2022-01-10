@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9b20fef800a2c999627ed1399ac196a6",
+    "content-hash": "d6bd7189c2188bbe50940bd806e8698f",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -4636,16 +4636,16 @@
         },
         {
             "name": "spatie/data-transfer-object",
-            "version": "3.3.0",
+            "version": "3.7.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/data-transfer-object.git",
-                "reference": "ad1547a1d35e81051520955c9f02f0eaafeb2ab9"
+                "reference": "341f72c77e0fce40ea2e0dcb212cb54dc27bbe72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/data-transfer-object/zipball/ad1547a1d35e81051520955c9f02f0eaafeb2ab9",
-                "reference": "ad1547a1d35e81051520955c9f02f0eaafeb2ab9",
+                "url": "https://api.github.com/repos/spatie/data-transfer-object/zipball/341f72c77e0fce40ea2e0dcb212cb54dc27bbe72",
+                "reference": "341f72c77e0fce40ea2e0dcb212cb54dc27bbe72",
                 "shasum": ""
             },
             "require": {
@@ -4656,9 +4656,6 @@
                 "jetbrains/phpstorm-attributes": "^1.0",
                 "larapack/dd": "^1.1",
                 "phpunit/phpunit": "^9.0"
-            },
-            "suggest": {
-                "phpstan/phpstan": "Take advantage of checkUninitializedProperties with \\Spatie\\DataTransferObject\\PHPstan\\PropertiesAreAlwaysInitializedExtension"
             },
             "type": "library",
             "autoload": {
@@ -4686,7 +4683,7 @@
             ],
             "support": {
                 "issues": "https://github.com/spatie/data-transfer-object/issues",
-                "source": "https://github.com/spatie/data-transfer-object/tree/3.3.0"
+                "source": "https://github.com/spatie/data-transfer-object/tree/3.7.3"
             },
             "funding": [
                 {
@@ -4698,7 +4695,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2021-06-01T11:27:12+00:00"
+            "time": "2021-12-30T20:31:10+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
